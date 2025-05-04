@@ -34,7 +34,7 @@ The architecture components of the Smart Pet Water Dispenser:
 
   - Connectivity and Remote Monitoring Component – Allows the user to monitor and control the dispenser remotely via a web interface. This module communicates with the Raspberry Pi Pico over a network to offer access to system data and control over actions such as refilling the water remotely.
   
-  ![Diagram](../../../../../static/img/Diagram.jpeg)
+  ![Diagram](../../../../../static/img/Diagram.webp)
 ## Log
 
 <!-- write your progress here every week -->
