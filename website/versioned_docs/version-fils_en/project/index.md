@@ -88,7 +88,7 @@ These steps should be performed on inside your **VM**, or in **WSL2**, **not on 
 
 7. To start creating your page for the project, go to `website/versioned_docs/version-fils_en/project/2025` and create a new directory with your curs.upb.ro username. Example: `andrei_paul.zamfir`.
 
-8. In that directory you must create a file named `index.md` which will be your project page. This page must follow the project [template page](./2025/alexia.cosac/index.md) You can take a look at the [Markdown](https://www.markdownguide.org/cheat-sheet/) syntax. You can look at [last year's projects](https://gitlab.cs.pub.ro/pmrust/pmrust.pages.upb.ro/-/tree/main/website/versioned_docs/version-fils_en/project/2024).
+8. In that directory you must create a file named `index.md` which will be your project page. This page must follow the project [template page](./2025/template.md) You can take a look at the [Markdown](https://www.markdownguide.org/cheat-sheet/) syntax. You can look at [last year's projects](https://gitlab.cs.pub.ro/pmrust/pmrust.pages.upb.ro/-/tree/main/website/versioned_docs/version-fils_en/project/2024).
 
 9. To build and test the website, you can run the `./build_website.sh` in the project's root folder, then run `cd ./website/ && npm run serve`.
 
