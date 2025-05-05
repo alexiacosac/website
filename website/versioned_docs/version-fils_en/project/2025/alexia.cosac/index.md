@@ -4,16 +4,16 @@ A smart device that automatically refills a pet's water bowl and monitors water 
 
 :::info
 
-**Author**: Cosac Alexia  
-**GitHub Project Link**: (https://github.com/UPB-PMRust-Students/project-alexiacosac)
+**Author**: Cosac Alexia \
+**GitHub Project Link**: https://github.com/UPB-PMRust-Students/project-alexiacosac
 
 :::
 
 ## Description
 
-The Smart Pet Water Dispenser is an automated system designed to keep pets hydrated by refilling their water bowl whenever the level drops too low. Powered by a Raspberry Pi Pico, it uses a water level sensor and a water pump to maintain consistent water levels without constant human intervention.
+The Smart Pet Water Dispenser is an automated system designed to keep pets hydrated by refilling their water bowl whenever the level drops too low. Powered by a Raspberry Pi Pico W, it uses a water level sensor and a water pump to maintain consistent water levels without constant human intervention.
 
-To ensure safety and usability, the system also monitors water temperature via a sensor and displays it on an OLED screen, while an RGB LED provides status indicators (green for normal, red for errors). It also features remote connectivity for monitoring and controlling the system through a simple web interface.
+To ensure safety and usability, the system also monitors water temperature via a sensor and displays it on an LCD screen, while an RGB LED provides status indicators (green for normal, red for errors). It also features remote connectivity for monitoring and controlling the system through a simple web interface.
 
 ## Motivation
 
