@@ -41,9 +41,12 @@ The architecture components of the Smart Pet Water Dispenser:
 
 ### Week 5 - 11 May
 
+This week, I was able to have all the components required for my project. I soldered both Raspberry Pi Picos and connected them on the breadboard using probedebug. I also tested them with a short code to check that everything works fine.
+
 
 ### Week 12 - 18 May
 
+I connected and tested several components of the project. The RGB LED was successfully integrated and responds correctly to control signals. I also connected the LCD display and began displaying test messages on it. I wired the temperature and water level sensors and started checking their readings through initial tests.
 
 ### Week 19 - 25 May
 
@@ -109,8 +112,7 @@ The hardware components include:
 
 ### Schematics
 
-Place your KiCAD schematics here.
-
+![KiCad](KiCad.webp)
 
 ### Bill of Materials
 
