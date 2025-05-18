@@ -48,6 +48,10 @@ This week, I was able to have all the components required for my project. I sold
 
 I connected and tested several components of the project. The RGB LED was successfully integrated and responds correctly to control signals. I also connected the LCD display and began displaying test messages on it. I wired the temperature and water level sensors and started checking their readings through initial tests.
 
+
+### Week 12 - 18 May
+
+
 ### Week 19 - 25 May
 
 
@@ -119,6 +123,10 @@ The hardware components include:
 ### Schematics
 
 ![KiCad](KiCad.webp)
+### Schematics
+
+Place your KiCAD schematics here.
+
 
 ### Bill of Materials
 
