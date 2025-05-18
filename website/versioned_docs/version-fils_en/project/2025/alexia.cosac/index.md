@@ -110,6 +110,12 @@ The hardware components include:
 
     Limits current to protect components.
 
+
+![Project1](Project1.webp)
+![Project2](Project2.webp)
+![Project3](Project3.webp)
+
+
 ### Schematics
 
 ![KiCad](KiCad.webp)
