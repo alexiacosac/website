@@ -122,7 +122,7 @@ The hardware components include:
 
 Place your KiCAD schematics here.
 
-![KiCad](KiCad.webp)
+![KiCad](KiCad2.svg)
 
 
 ### Bill of Materials
