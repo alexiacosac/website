@@ -52,6 +52,7 @@ I connected and tested several components of the project. The RGB LED was succes
 
 ### Week 19 - 25 May
 
+This week I finished both software and hardware parts of my project and presented it to my laboratory professor. The final steps were implementing the water pump, the relay module and a level shifter to make my project work properly.
 
 ### Week 26 - 2 June
 
